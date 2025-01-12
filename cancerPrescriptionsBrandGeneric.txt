@@ -1,0 +1,1291 @@
+   8627 Dexamethasone,Dexamethasone
+   7596 Prednisone,Prednisone
+   7435 Anastrozole,Anastrozole
+   7259 Eliquis,Apixaban
+   7147 Ondansetron Hcl,Ondansetron Hcl
+   6622 Gabapentin,Gabapentin
+   6451 Letrozole,Letrozole
+   6429 Prochlorperazine Maleate,Prochlorperazine Maleate
+   6402 Hydroxyurea,Hydroxyurea
+   5538 Oxycodone Hcl,Oxycodone Hcl
+   5361 Revlimid,Lenalidomide
+   5223 Hydrocodone-Acetaminophen,Hydrocodone/Acetaminophen
+   5182 Acyclovir,Acyclovir
+   5103 Xarelto,Rivaroxaban
+   4741 Tamoxifen Citrate,Tamoxifen Citrate
+   4274 Imbruvica,Ibrutinib
+   4269 Potassium Chloride,Potassium Chloride
+   3920 Levothyroxine Sodium,Levothyroxine Sodium
+   3888 Ondansetron Odt,Ondansetron
+   3407 Tamsulosin Hcl,Tamsulosin Hcl
+   3400 Pantoprazole Sodium,Pantoprazole Sodium
+   3307 Abiraterone Acetate,Abiraterone Acetate
+   3213 Ibrance,Palbociclib
+   3174 Lorazepam,Lorazepam
+   3130 Exemestane,Exemestane
+   3079 Imatinib Mesylate,Imatinib Mesylate
+   2930 Tramadol Hcl,Tramadol Hcl
+   2811 Xtandi,Enzalutamide
+   2797 Omeprazole,Omeprazole
+   2685 Oxycodone-Acetaminophen,Oxycodone Hcl/Acetaminophen
+   2506 Jakafi,Ruxolitinib Phosphate
+   2459 Sulfamethoxazole-Trimethoprim,Sulfamethoxazole/Trimethoprim
+   2442 Morphine Sulfate Er,Morphine Sulfate
+   2435 Allopurinol,Allopurinol
+   2374 Warfarin Sodium,Warfarin Sodium
+   2152 Furosemide,Furosemide
+   2107 Lidocaine-Prilocaine,Lidocaine/Prilocaine
+   1977 Pomalyst,Pomalidomide
+   1819 Alprazolam,Alprazolam
+   1797 Venclexta,Venetoclax
+   1788 Alendronate Sodium,Alendronate Sodium
+   1758 Calquence,Acalabrutinib
+   1708 Levofloxacin,Levofloxacin
+   1582 Fentanyl,Fentanyl
+   1543 Tagrisso,Osimertinib Mesylate
+   1532 Diphenoxylate-Atropine,Diphenoxylate Hcl/Atropine
+   1519 Amlodipine Besylate,Amlodipine Besylate
+   1475 Valacyclovir,Valacyclovir Hcl
+   1402 Zolpidem Tartrate,Zolpidem Tartrate
+   1399 Bicalutamide,Bicalutamide
+   1364 Olanzapine,Olanzapine
+   1340 Duloxetine Hcl,Duloxetine Hcl
+   1335 Mirtazapine,Mirtazapine
+   1313 Famotidine,Famotidine
+   1285 Venlafaxine Hcl Er,Venlafaxine Hcl
+   1177 Megestrol Acetate,Megestrol Acetate
+   1162 Fluconazole,Fluconazole
+   1129 Lidocaine Hcl Viscous,Lidocaine Hcl
+   1129 Ciprofloxacin Hcl,Ciprofloxacin Hcl
+   1086 Sprycel,Dasatinib
+   1038 Enoxaparin Sodium,Enoxaparin Sodium
+    940 Creon,Lipase/Protease/Amylase
+    908 Promacta,Eltrombopag Olamine
+    897 Cabometyx,Cabozantinib S-Malate
+    893 Trazodone Hcl,Trazodone Hcl
+    891 Methylprednisolone,Methylprednisolone
+    859 Verzenio,Abemaciclib
+    854 Promethazine Hcl,Promethazine Hcl
+    848 Escitalopram Oxalate,Escitalopram Oxalate
+    836 Erleada,Apalutamide
+    818 Folic Acid,Folic Acid
+    807 Nystatin,Nystatin
+    794 Tasigna,Nilotinib Hcl
+    790 Hydromorphone Hcl,Hydromorphone Hcl
+    773 Loperamide,Loperamide Hcl
+    738 Pregabalin,Pregabalin
+    705 Lynparza,Olaparib
+    704 Lisinopril,Lisinopril
+    695 Ninlaro,Ixazomib Citrate
+    650 Azithromycin,Azithromycin
+    645 Sertraline Hcl,Sertraline Hcl
+    618 Triamcinolone Acetonide,Triamcinolone Acetonide
+    578 Morphine Sulfate,Morphine Sulfate
+    575 Hydrocortisone,Hydrocortisone
+    566 Inlyta,Axitinib
+    563 Atorvastatin Calcium,Atorvastatin Calcium
+    548 Albuterol Sulfate Hfa,Albuterol Sulfate
+    541 Amoxicillin-Clavulanate Potass,Amoxicillin/Potassium Clav
+    532 Lenvima,Lenvatinib Mesylate
+    531 Lenalidomide,Lenalidomide
+    526 Citalopram Hbr,Citalopram Hydrobromide
+    512 Anagrelide Hcl,Anagrelide Hcl
+    486 Brukinsa,Zanubrutinib
+    481 Montelukast Sodium,Montelukast Sodium
+    477 Temazepam,Temazepam
+    460 Raloxifene Hcl,Raloxifene Hcl
+    456 Oxycontin,Oxycodone Hcl
+    450 Orgovyx,Relugolix
+    414 Hydrochlorothiazide,Hydrochlorothiazide
+    409 Losartan Potassium,Losartan Potassium
+    407 Ibuprofen,Ibuprofen
+    389 Everolimus,Everolimus
+    383 Levetiracetam,Levetiracetam
+    379 Doxycycline Hyclate,Doxycycline Hyclate
+    377 Dronabinol,Dronabinol
+    375 Metoprolol Succinate,Metoprolol Succinate
+    374 Sucralfate,Sucralfate
+    368 Procrit,Epoetin Alfa
+    367 Cyclobenzaprine Hcl,Cyclobenzaprine Hcl
+    366 Ssd,Silver Sulfadiazine
+    348 Lactulose,Lactulose
+    339 Mometasone Furoate,Mometasone Furoate
+    339 Clonazepam,Clonazepam
+    334 Nubeqa,Darolutamide
+    333 Metoclopramide Hcl,Metoclopramide Hcl
+    332 Zarxio,Filgrastim-Sndz
+    327 Metoprolol Tartrate,Metoprolol Tartrate
+    327 Cephalexin,Cephalexin
+    311 Diazepam,Diazepam
+    311 Bosulif,Bosutinib
+    310 Kisqali,Ribociclib Succinate
+    303 Deferasirox,Deferasirox
+    295 Meloxicam,Meloxicam
+    291 Estradiol,Estradiol
+    287 Spironolactone,Spironolactone
+    287 Metformin Hcl,Metformin Hcl
+    287 Celecoxib,Celecoxib
+    287 Acetaminophen-Codeine,Acetaminophen With Codeine
+    279 Hydroxyzine Hcl,Hydroxyzine Hcl
+    278 Ibandronate Sodium,Ibandronate Sodium
+    275 Tafinlar,Dabrafenib Mesylate
+    274 Oxybutynin Chloride Er,Oxybutynin Chloride
+    270 Memantine Hcl,Memantine Hcl
+    268 Mekinist,Trametinib Dimethyl Sulfoxide
+    268 Alecensa,Alectinib Hcl
+    266 Retacrit,Epoetin Alfa-Epbx
+    265 Methadone Hcl,Methadone Hcl
+    262 Sodium Chloride,0.9 % Sodium Chloride
+    251 Klor-Con M20,Potassium Chloride
+    249 Xgeva,Denosumab
+    241 Euthyrox,Levothyroxine Sodium
+    232 Oxybutynin Chloride,Oxybutynin Chloride
+    232 Gleevec,Imatinib Mesylate
+    229 Zejula,Niraparib Tosylate
+    217 Votrient,Pazopanib Hcl
+    215 Silver Sulfadiazine,Silver Sulfadiazine
+    211 Keytruda,Pembrolizumab
+    199 Xtampza Er,Oxycodone Myristate
+    199 Pradaxa,Dabigatran Etexilate Mesylate
+    198 Jantoven,Warfarin Sodium
+    196 Rosuvastatin Calcium,Rosuvastatin Calcium
+    193 Lonsurf,Trifluridine/Tipiracil Hcl
+    192 Synthroid,Levothyroxine Sodium
+    191 Cyanocobalamin Injection,Cyanocobalamin (Vitamin B-12)
+    188 Paroxetine Hcl,Paroxetine Hcl
+    182 Carvedilol,Carvedilol
+    175 Finasteride,Finasteride
+    174 Erlotinib Hcl,Erlotinib Hcl
+    170 Lupron Depot,Leuprolide Acetate
+    170 Entecavir,Entecavir
+    168 Amitriptyline Hcl,Amitriptyline Hcl
+    167 Clopidogrel,Clopidogrel Bisulfate
+    164 Simvastatin,Simvastatin
+    162 Inqovi,Decitabine/Cedazuridine
+    159 Braftovi,Encorafenib
+    157 Pentoxifylline,Pentoxifylline
+    153 Venlafaxine Hcl,Venlafaxine Hcl
+    151 Posaconazole,Posaconazole
+    148 Aranesp,Darbepoetin Alfa In Polysorbat
+    146 Fulvestrant,Fulvestrant
+    143 Pilocarpine Hcl,Pilocarpine Hcl
+    142 Mektovi,Binimetinib
+    142 Esomeprazole Magnesium,Esomeprazole Magnesium
+    140 Methotrexate,Methotrexate Sodium
+    139 Dexamethasone Sodium Phosphate,Dexamethasone Sodium Phosphate
+    138 Metronidazole,Metronidazole
+    137 Diclofenac Sodium,Diclofenac Sodium
+    136 Methylphenidate Hcl,Methylphenidate Hcl
+    133 Fluoxetine Hcl,Fluoxetine Hcl
+    132 Fondaparinux Sodium,Fondaparinux Sodium
+    132 Diphenhydramine Hcl,Diphenhydramine Hcl
+    132 Baclofen,Baclofen
+    131 Nitrofurantoin Mono-Macro,Nitrofurantoin Monohyd/M-Cryst
+    127 Vitamin D2,Ergocalciferol (Vitamin D2)
+    127 Fluticasone Propionate,Fluticasone Propionate
+    126 Clobetasol Propionate,Clobetasol Propionate
+    125 Dicyclomine Hcl,Dicyclomine Hcl
+    123 Ursodiol,Ursodiol
+    121 Amoxicillin,Amoxicillin
+    116 Atovaquone,Atovaquone
+    112 Atenolol,Atenolol
+    110 Sunitinib Malate,Sunitinib Malate
+    110 Prolia,Denosumab
+    110 Oxbryta,Voxelotor
+    110 Myrbetriq,Mirabegron
+    109 Zytiga,Abiraterone Acetate
+    109 Pegasys,Peginterferon Alfa-2a
+    109 Cyclosporine Modified,"Cyclosporine
+    108 Nivestym,Filgrastim-Aafi
+    107 Lumakras,Sotorasib
+    105 Opdivo,Nivolumab
+    105 Ondansetron Hcl,Ondansetron Hcl/Pf
+    102 Gammagard Liquid,Immun Glob G(Igg)/Gly/Iga Ov50
+    100 Carboplatin,Carboplatin
+     98 Tizanidine Hcl,Tizanidine Hcl
+     98 Quetiapine Fumarate,Quetiapine Fumarate
+     98 Clotrimazole-Betamethasone,Clotrimazole/Betamethasone Dip
+     98 Bupropion Xl,Bupropion Hcl
+     97 Paxlovid (Eua),Nirmatrelvir/Ritonavir
+     97 Calquence,Acalabrutinib Maleate
+     95 Neulasta Onpro,Pegfilgrastim
+     94 Clonidine Hcl,Clonidine Hcl
+     93 Triamterene-Hydrochlorothiazid,Triamterene/Hydrochlorothiazid
+     93 Sandostatin Lar Depot,"Octreotide Acetate
+     93 Aprepitant,Aprepitant
+     91 Ropinirole Hcl,Ropinirole Hcl
+     90 Iclusig,Ponatinib Hcl
+     89 Alfuzosin Hcl Er,Alfuzosin Hcl
+     88 Gilotrif,Afatinib Dimaleate
+     88 Chlorhexidine Gluconate,Chlorhexidine Gluconate
+     87 Piqray,Alpelisib
+     86 Tacrolimus,Tacrolimus
+     86 Lidocaine,Lidocaine
+     85 Pravastatin Sodium,Pravastatin Sodium
+     85 Naproxen,Naproxen
+     85 Famotidine,Famotidine/Pf
+     85 Afinitor,Everolimus
+     84 Neulasta,Pegfilgrastim
+     83 Xalkori,Crizotinib
+     82 Voriconazole,Voriconazole
+     81 Famciclovir,Famciclovir
+     80 Meclizine Hcl,Meclizine Hcl
+     80 Doptelet,Avatrombopag Maleate
+     80 Dapsone,Dapsone
+     79 Lorbrena,Lorlatinib
+     78 Octagam,Immun Globg(Igg)/Malt/Iga Ov50
+     78 Cholestyramine,Cholestyramine (With Sugar)
+     77 Tukysa,Tucatinib
+     77 Donepezil Hcl,Donepezil Hcl
+     76 Premarin,"Estrogens
+     75 Leucovorin Calcium,Leucovorin Calcium
+     74 Tabrecta,Capmatinib Hydrochloride
+     74 Danazol,Danazol
+     73 Zoledronic Acid,Zoledronic Acid
+     73 Darzalex Faspro,Daratumumab-Hyaluronidase-Fihj
+     72 Stivarga,Regorafenib
+     72 Penicillin V Potassium,Penicillin V Potassium
+     71 Palonosetron Hcl,Palonosetron Hcl
+     70 Doxycycline Monohydrate,Doxycycline Monohydrate
+     69 Somatuline Depot,Lanreotide Acetate
+     69 Naloxone Hcl,Naloxone Hcl
+     69 Lisinopril-Hydrochlorothiazide,Lisinopril/Hydrochlorothiazide
+     68 Zenpep,Lipase/Protease/Amylase
+     68 Tibsovo,Ivosidenib
+     68 Retevmo,Selpercatinib
+     68 Cyclophosphamide,Cyclophosphamide
+     67 Droxia,Hydroxyurea
+     66 Erivedge,Vismodegib
+     65 Medroxyprogesterone Acetate,Medroxyprogesterone Acetate
+     65 Hydralazine Hcl,Hydralazine Hcl
+     64 Tranexamic Acid,Tranexamic Acid
+     64 Thalomid,Thalidomide
+     64 Tecentriq,Atezolizumab
+     64 Nifedipine Er,Nifedipine
+     63 Colestipol Hcl,Colestipol Hcl
+     62 Buspirone Hcl,Buspirone Hcl
+     61 Methocarbamol,Methocarbamol
+     60 Oxaliplatin,Oxaliplatin
+     59 Rubraca,Rucaparib Camsylate
+     59 Metformin Hcl Er,Metformin Hcl
+     59 Gamunex-C,Immune Globul G/Gly/Iga Avg 46
+     59 Fludrocortisone Acetate,Fludrocortisone Acetate
+     58 Clotrimazole,Clotrimazole
+     57 Tavalisse,Fostamatinib Disodium
+     57 Symbicort,Budesonide/Formoterol Fumarate
+     56 Ventolin Hfa,Albuterol Sulfate
+     56 Mupirocin,Mupirocin
+     56 Granisetron Hcl,Granisetron Hcl
+     55 Mycophenolate Mofetil,Mycophenolate Mofetil
+     55 Linzess,Linaclotide
+     55 Akynzeo,Fosnetupitant/Palonosetron
+     54 Cefdinir,Cefdinir
+     53 Privigen,Immun Glob G(Igg)/Pro/Iga 0-50
+     53 Januvia,Sitagliptin Phosphate
+     53 Glipizide,Glipizide
+     52 Midodrine Hcl,Midodrine Hcl
+     52 Inrebic,Fedratinib Dihydrochloride
+     52 Avastin,Bevacizumab
+     51 Trelegy Ellipta,Fluticasone/Umeclidin/Vilanter
+     51 Rezurock,Belumosudil Mesylate
+     51 Paclitaxel,Paclitaxel
+     50 Onureg,Azacitidine
+     50 Fluorouracil,Fluorouracil
+     50 Cyproheptadine Hcl,Cyproheptadine Hcl
+     49 Fotivda,Tivozanib Hcl
+     49 Cyclosporine,Cyclosporine
+     49 Carisoprodol,Carisoprodol
+     49 Bupropion Hcl Sr,Bupropion Hcl
+     48 Scopolamine,Scopolamine
+     48 Minocycline Hcl,Minocycline Hcl
+     47 Terazosin Hcl,Terazosin Hcl
+     47 Idhifa,Enasidenib Mesylate
+     47 Fosaprepitant Dimeglumine,Fosaprepitant Dimeglumine
+     46 Xermelo,Telotristat Etiprate
+     45 Sumatriptan Succinate,Sumatriptan Succinate
+     45 Calcitriol,Calcitriol
+     44 Hydroxychloroquine Sulfate,Hydroxychloroquine Sulfate
+     44 Ezetimibe,Ezetimibe
+     44 Doxazosin Mesylate,Doxazosin Mesylate
+     44 Docetaxel,Docetaxel
+     44 Butalbital-Acetaminophen-Caffe,Butalb/Acetaminophen/Caffeine
+     43 Risedronate Sodium,Risedronate Sodium
+     43 Propranolol Hcl,Propranolol Hcl
+     43 Neomycin Sulfate,Neomycin Sulfate
+     43 Gemcitabine Hcl,Gemcitabine Hcl
+     42 Jardiance,Empagliflozin
+     42 Diltiazem 24hr Er (Cd),Diltiazem Hcl
+     42 Bortezomib,Bortezomib
+     41 Xospata,Gilteritinib Fumarate
+     41 Perjeta,Pertuzumab
+     41 Neupogen,Filgrastim
+     41 Losartan-Hydrochlorothiazide,Losartan/Hydrochlorothiazide
+     41 Glimepiride,Glimepiride
+     41 Eszopiclone,Eszopiclone
+     41 Bumetanide,Bumetanide
+     40 Rituxan,Rituximab
+     40 Octreotide Acetate,Octreotide Acetate
+     40 Dutasteride,Dutasteride
+     40 Dextroamphetamine-Amphetamine,Dextroamphetamine/Amphetamine
+     40 Clindamycin Phosphate,Clindamycin Phosphate
+     40 Cefuroxime,Cefuroxime Axetil
+     40 Breo Ellipta,Fluticasone/Vilanterol
+     39 Topiramate,Topiramate
+     39 Sirolimus,Sirolimus
+     39 Nexavar,Sorafenib Tosylate
+     39 Mvasi,Bevacizumab-Awwb
+     39 Lapatinib,Lapatinib Ditosylate
+     39 Lansoprazole,Lansoprazole
+     39 Eligard,Leuprolide Acetate
+     39 Darzalex,Daratumumab
+     39 Bexarotene,Bexarotene
+     38 Velcade,Bortezomib
+     38 Testosterone Cypionate,Testosterone Cypionate
+     38 Solifenacin Succinate,Solifenacin Succinate
+     38 Isosorbide Mononitrate Er,Isosorbide Mononitrate
+     37 Irinotecan Hcl,Irinotecan Hcl
+     37 Alunbrig,Brigatinib
+     36 Zelboraf,Vemurafenib
+     36 Reblozyl,Luspatercept-Aamt
+     36 Glipizide Er,Glipizide
+     36 Enalapril Maleate,Enalapril Maleate
+     35 Nortriptyline Hcl,Nortriptyline Hcl
+     34 Sildenafil Citrate,Sildenafil Citrate
+     34 Levocetirizine Dihydrochloride,Levocetirizine Dihydrochloride
+     34 Leukeran,Chlorambucil
+     34 Ketoconazole,Ketoconazole
+     34 Cresemba,Isavuconazonium Sulfate
+     34 Azacitidine,Azacitidine
+     33 Shingrix,Varicella-Zoster Ge/As01b/Pf
+     33 Lantus Solostar,"Insulin Glargine
+     33 Betamethasone Valerate,Betamethasone Valerate
+     32 Tramadol Hcl-Acetaminophen,Tramadol Hcl/Acetaminophen
+     32 Torsemide,Torsemide
+     32 Tolterodine Tartrate Er,Tolterodine Tartrate
+     32 Scemblix,Asciminib Hydrochloride
+     32 Pemazyre,Pemigatinib
+     32 Hizentra,Immun Glob G(Igg)/Pro/Iga 0-50
+     32 Fenofibrate,Fenofibrate Nanocrystallized
+     32 Azathioprine,Azathioprine
+     31 Sps,Sodium Polystyrene Sulfon/Sorb
+     31 Nplate,Romiplostim
+     31 Herceptin,Trastuzumab
+     31 Colchicine,Colchicine
+     31 Betamethasone Dipropionate,Betamethasone Dipropionate
+     31 Alimta,Pemetrexed Disodium
+     30 Ziextenzo,Pegfilgrastim-Bmez
+     30 Testosterone,Testosterone
+     30 Olmesartan Medoxomil,Olmesartan Medoxomil
+     30 Dexamethasone Sodium Phosphate,Dexamethasone Sodium Phosp/Pf
+     30 Advair Diskus,Fluticasone Propion/Salmeterol
+     29 Xpovio,Selinexor
+     29 Olanzapine Odt,Olanzapine
+     29 Clindamycin Hcl,Clindamycin Hcl
+     29 Cefpodoxime Proxetil,Cefpodoxime Proxetil
+     28 Zirabev,Bevacizumab-Bvzr
+     28 Sancuso,Granisetron
+     28 Estradiol (Twice Weekly),Estradiol
+     27 Valsartan,Valsartan
+     27 Trelstar,Triptorelin Pamoate
+     27 Spiriva Handihaler,Tiotropium Bromide
+     27 Silodosin,Silodosin
+     27 Kyprolis,Carfilzomib
+     27 Imfinzi,Durvalumab
+     27 Arimidex,Anastrozole
+     26 Toremifene Citrate,Toremifene Citrate
+     26 Colesevelam Hcl,Colesevelam Hcl
+     26 Besremi,Ropeginterferon Alfa-2b-Njft
+     26 Anoro Ellipta,Umeclidinium Brm/Vilanterol Tr
+     26 Amiodarone Hcl,Amiodarone Hcl
+     25 Nerlynx,Neratinib Maleate
+     25 Klor-Con M10,Potassium Chloride
+     25 Kisqali Femara Co-Pack,Ribociclib Succinate/Letrozole
+     25 Copiktra,Duvelisib
+     25 Combivent Respimat,Ipratropium/Albuterol Sulfate
+     24 Zydelig,Idelalisib
+     24 Zolpidem Tartrate Er,Zolpidem Tartrate
+     24 Trulicity,Dulaglutide
+     24 Estradiol (Once Weekly),Estradiol
+     24 Doxepin Hcl,Doxepin Hcl
+     23 Yuvafem,Estradiol
+     23 Vancomycin Hcl,Vancomycin Hcl
+     23 Tenofovir Disoproxil Fumarate,Tenofovir Disoproxil Fumarate
+     23 Ramipril,Ramipril
+     23 Lovastatin,Lovastatin
+     23 Imiquimod,Imiquimod
+     23 Constulose,Lactulose
+     22 Risperidone,Risperidone
+     22 Prevymis,Letermovir
+     22 Latanoprost,Latanoprost
+     22 Lamotrigine,Lamotrigine
+     22 Klor-Con 10,Potassium Chloride
+     22 Kanjinti,Trastuzumab-Anns
+     22 Endari,Glutamine
+     22 Divalproex Sodium,Divalproex Sodium
+     22 Chlorthalidone,Chlorthalidone
+     22 Benazepril Hcl,Benazepril Hcl
+     21 Savaysa,Edoxaban Tosylate
+     21 Pramipexole Dihydrochloride,Pramipexole Di-Hcl
+     20 Vascepa,Icosapent Ethyl
+     20 Progesterone,"Progesterone
+     20 Levemir Flextouch,Insulin Detemir
+     20 Fenofibrate,Fenofibrate
+     20 Ayvakit,Avapritinib
+     20 Amlodipine Besylate-Benazepril,Amlodipine Besylate/Benazepril
+     20 Abraxane,Paclitaxel Protein-Bound
+     19 Yonsa,"Abiraterone Acet
+     19 Rydapt,Midostaurin
+     19 Ruxience,Rituximab-Pvvr
+     19 Movantik,Naloxegol Oxalate
+     19 Magnesium Sulfate,Magnesium Sulfate
+     19 Incruse Ellipta,Umeclidinium Bromide
+     19 Fulphila,Pegfilgrastim-Jmdb
+     19 Febuxostat,Febuxostat
+     19 Digoxin,Digoxin
+     19 Cotellic,Cobimetinib Fumarate
+     19 Budesonide Dr,Budesonide
+     18 Xifaxan,Rifaximin
+     18 Truxima,Rituximab-Abbs
+     18 Novolog Flexpen,Insulin Aspart
+     18 Irbesartan,Irbesartan
+     18 Hydroxyzine Pamoate,Hydroxyzine Pamoate
+     18 Carbidopa-Levodopa,Carbidopa/Levodopa
+     18 Aripiprazole,Aripiprazole
+     17 Trazimera,Trastuzumab-Qyyp
+     17 Sutent,Sunitinib Malate
+     17 Phenytoin Sodium Extended,Phenytoin Sodium Extended
+     17 Ozempic,Semaglutide
+     17 Mercaptopurine,Mercaptopurine
+     17 Labetalol Hcl,Labetalol Hcl
+     17 Iressa,Gefitinib
+     17 Ipratropium Bromide,Ipratropium Bromide
+     17 Gammaplex,Immun Glob G(Igg)/Gly/Iga 0-50
+     17 Fluocinonide,Fluocinonide
+     17 Femara,Letrozole
+     16 Nystop,Nystatin
+     16 Kadcyla,Ado-Trastuzumab Emtansine
+     16 Empaveli,Pegcetacoplan
+     16 Bupropion Hcl,Bupropion Hcl
+     15 Welireg,Belzutifan
+     15 Vitrakvi,Larotrectinib Sulfate
+     15 Tradjenta,Linagliptin
+     15 Pioglitazone Hcl,Pioglitazone Hcl
+     15 Pamidronate Disodium,Pamidronate Disodium
+     15 Nebivolol Hcl,Nebivolol Hcl
+     15 Lysodren,Mitotane
+     15 Jadenu,Deferasirox
+     15 Glycopyrrolate,Glycopyrrolate
+     15 Armour Thyroid,"Thyroid
+     14 Varubi,Rolapitant Hcl
+     14 Rybelsus,Semaglutide
+     14 Pemetrexed Disodium,Pemetrexed Disodium
+     14 Liothyronine Sodium,Liothyronine Sodium
+     14 Lactated Ringers,"Ringer's Solution
+     14 Granix,Tbo-Filgrastim
+     14 Entresto,Sacubitril/Valsartan
+     14 Compro,Prochlorperazine
+     14 Clonidine,Clonidine
+     14 Cisplatin,Cisplatin
+     13 Vyndamax,Tafamidis
+     13 Vemlidy,Tenofovir Alafenamide
+     13 Tramadol Hcl Er,Tramadol Hcl
+     13 Tadalafil,Tadalafil
+     13 Remicade,Infliximab
+     13 Opium Tincture,Opium Tincture
+     13 Farxiga,Dapagliflozin Propanediol
+     13 Erbitux,Cetuximab
+     13 Carbamazepine,Carbamazepine
+     13 Benztropine Mesylate,Benztropine Mesylate
+     13 Basaglar Kwikpen U-100,"Insulin Glargine
+     12 Udenyca,Pegfilgrastim-Cbqv
+     12 Sodium Polystyrene Sulfonate,Sodium Polystyrene Sulfonate
+     12 Rizatriptan,Rizatriptan Benzoate
+     12 Qinlock,Ripretinib
+     12 Paclitaxel Protein-Bound,Paclitaxel Protein-Bound
+     12 Odomzo,Sonidegib Phosphate
+     12 Memantine Hcl Er,Memantine Hcl
+     12 Lacosamide,Lacosamide
+     12 Janumet,Sitagliptin Phos/Metformin Hcl
+     12 Gavreto,Pralsetinib
+     12 Cefadroxil,Cefadroxil
+     12 Ammonium Lactate,Ammonium Lactate
+     11 Zykadia,Ceritinib
+     11 Yervoy,Ipilimumab
+     11 Tykerb,Lapatinib Ditosylate
+     11 Trospium Chloride,Trospium Chloride
+     11 Telmisartan,Telmisartan
+     11 Nitroglycerin,Nitroglycerin
+     11 Misoprostol,Misoprostol
+     11 Metolazone,Metolazone
+     11 Methenamine Hippurate,Methenamine Hippurate
+     11 Lidocaine Hcl,Lidocaine Hcl
+     11 Gemfibrozil,Gemfibrozil
+     11 Flovent Hfa,Fluticasone Propionate
+     11 Diltiazem Hcl,Diltiazem Hcl
+     11 Dexilant,Dexlansoprazole
+     11 Desvenlafaxine Succinate Er,Desvenlafaxine Succinate
+     11 Buprenorphine-Naloxone,Buprenorphine Hcl/Naloxone Hcl
+     11 Akynzeo,Netupitant/Palonosetron Hcl
+     10 Valsartan-Hydrochlorothiazide,Valsartan/Hydrochlorothiazide
+     10 Trintellix,Vortioxetine Hydrobromide
+     10 Spironolactone-Hctz,Spironolact/Hydrochlorothiazid
+     10 Prochlorperazine,Prochlorperazine
+     10 Prednisolone,Prednisolone
+     10 Phenobarbital,Phenobarbital
+     10 Oxymorphone Hcl Er,Oxymorphone Hcl
+     10 Nyamyc,Nystatin
+     10 Novolog,Insulin Aspart
+     10 Nilutamide,Nilutamide
+     10 Methimazole,Methimazole
+     10 Jevtana,Cabazitaxel
+     10 Haloperidol,Haloperidol
+     10 Granisetron Hcl,Granisetron Hcl/Pf
+     10 Fluticasone-Salmeterol,Fluticasone Propion/Salmeterol
+     10 Ferriprox (2 Times A Day),Deferiprone
+     10 Fenofibrate,"Fenofibrate
+     10 Divalproex Sodium Er,Divalproex Sodium
+     10 Cromolyn Sodium,Cromolyn Sodium
+     10 Cilostazol,Cilostazol
+     10 Cerdelga,Eliglustat Tartrate
+     10 Adakveo,Crizanlizumab-Tmca
+      9 Verapamil Er,Verapamil Hcl
+      9 Tazverik,Tazemetostat Hydrobromide
+      9 Suprep,"Sodium
+      9 Sulfasalazine,Sulfasalazine
+      9 Soliris,Eculizumab
+      9 Primidone,Primidone
+      9 Oxcarbazepine,Oxcarbazepine
+      9 Omega-3 Acid Ethyl Esters,Omega-3 Acid Ethyl Esters
+      9 Nitrofurantoin,Nitrofurantoin Macrocrystal
+      9 Lantus,"Insulin Glargine
+      9 Lamivudine Hbv,Lamivudine
+      9 Gazyva,Obinutuzumab
+      9 Enhertu,Fam-Trastuzumab Deruxtecn-Nxki
+      9 Doxorubicin Hcl,Doxorubicin Hcl
+      9 Diclofenac Potassium,Diclofenac Potassium
+      9 Dextroamphetamine-Amphet Er,Dextroamphetamine/Amphetamine
+      9 Cyramza,Ramucirumab
+      9 Clinisol,Parenteral Amino Acid 15% No.5
+      9 Calcitonin-Salmon,"Calcitonin
+      9 Biktarvy,Bictegrav/Emtricit/Tenofov Ala
+      9 Atrovent Hfa,Ipratropium Bromide
+      9 Atropine Sulfate,Atropine Sulfate
+      8 Zolinza,Vorinostat
+      8 Tretinoin,Tretinoin
+      8 Tepmetko,Tepotinib Hcl
+      8 Talzenna,Talazoparib Tosylate
+      8 Sulindac,Sulindac
+      8 Sodium Fluoride,Fluoride (Sodium)
+      8 Prempro,"Estrogen
+      8 Ipol,"Poliomyelitis Vaccine
+      8 Insulin Syringe,"Syringe And Needle
+      8 Imvexxy,Estradiol
+      8 Gavilyte-G,"Peg3350/Sod Sulf
+      8 Ferriprox (3 Times A Day),Deferiprone
+      8 Empliciti,Elotuzumab
+      8 Cimetidine,Cimetidine
+      8 Cholestyramine Light,Cholestyramine/Aspartame
+      8 Cevimeline Hcl,Cevimeline Hcl
+      8 Budesonide Ec,Budesonide
+      8 Brilinta,Ticagrelor
+      8 Bisoprolol Fumarate,Bisoprolol Fumarate
+      7 Zoladex,Goserelin Acetate
+      7 Wixela Inhub,Fluticasone Propion/Salmeterol
+      7 Vonjo,Pacritinib Citrate
+      7 Vectibix,Panitumumab
+      7 Trexall,Methotrexate Sodium
+      7 Tolterodine Tartrate,Tolterodine Tartrate
+      7 Terconazole,Terconazole
+      7 Ranolazine Er,Ranolazine
+      7 Peg 3350-Electrolyte,Sodium Chloride/Nahco3/Kcl/Peg
+      7 Ontruzant,Trastuzumab-Dttb
+      7 Nystatin-Triamcinolone,Nystatin/Triamcinolone Acet
+      7 Nucala,Mepolizumab
+      7 Norethindrone Acetate,Norethindrone Acetate
+      7 Nabumetone,Nabumetone
+      7 Lokelma,Sodium Zirconium Cyclosilicate
+      7 Libtayo,Cemiplimab-Rwlc
+      7 Leukine,Sargramostim
+      7 Koselugo,Selumetinib/Vitamin E Tpgs
+      7 Hydrea,Hydroxyurea
+      7 Humalog Kwikpen U-100,Insulin Lispro
+      7 Gengraf,"Cyclosporine
+      7 Gammaked,Immune Globul G/Gly/Iga Avg 46
+      7 Fragmin,"Dalteparin Sodium
+      7 Firmagon,Degarelix Acetate
+      7 Exjade,Deferasirox
+      7 Etoposide,Etoposide
+      7 Dexlansoprazole Dr,Dexlansoprazole
+      7 Capecitabine,Capecitabine
+      7 Boostrix Tdap,"Diphth
+      7 Azelastine Hcl,Azelastine Hcl
+      7 Aromasin,Exemestane
+      7 Aminocaproic Acid,Aminocaproic Acid
+      6 Zoledronic Acid,Zoledronic Ac/Mannitol/0.9nacl
+      6 Zaleplon,Zaleplon
+      6 Xolair,Omalizumab
+      6 Victoza 3-Pak,Liraglutide
+      6 Valchlor,Mechlorethamine Hcl
+      6 Tresiba Flextouch U-200,Insulin Degludec
+      6 Tresiba Flextouch U-100,Insulin Degludec
+      6 Synribo,Omacetaxine Mepesuccinate
+      6 Sotalol,Sotalol Hcl
+      6 Solu-Cortef,Hydrocortisone Sodium Succ/Pf
+      6 Sodium Chloride,Sodium Chloride Irrig Solution
+      6 Rozlytrek,Entrectinib
+      6 Restasis,Cyclosporine
+      6 Procto-Med Hc,Hydrocortisone
+      6 Proair Hfa,Albuterol Sulfate
+      6 Omeprazole-Sodium Bicarbonate,Omeprazole/Sodium Bicarbonate
+      6 Olopatadine Hcl,Olopatadine Hcl
+      6 Ogivri,Trastuzumab-Dkst
+      6 Nexium,Esomeprazole Magnesium
+      6 Nano 2nd Gen Pen Needle,"Pen Needle
+      6 M-M-R Ii Vaccine,"Measles
+      6 Minoxidil,Minoxidil
+      6 Methylprednisolone Sodium Succ,Methylprednisolone Sod Succ
+      6 Menveo A-C-Y-W-135-Dip,"Mening Vac A
+      6 Lyrica,Pregabalin
+      6 Lovenox,Enoxaparin Sodium
+      6 Levemir,Insulin Detemir
+      6 Klor-Con 8,Potassium Chloride
+      6 Janumet Xr,Sitagliptin Phos/Metformin Hcl
+      6 Irbesartan-Hydrochlorothiazide,Irbesartan/Hydrochlorothiazide
+      6 Invokana,Canagliflozin
+      6 Insulin Lispro Kwikpen U-100,Insulin Lispro
+      6 Imipramine Hcl,Imipramine Hcl
+      6 Ibu,Ibuprofen
+      6 Hydrocodone-Ibuprofen,Hydrocodone/Ibuprofen
+      6 Hemady,Dexamethasone
+      6 Erythromycin,Erythromycin Base
+      6 Dotti,Estradiol
+      6 Descovy,Emtricitabine/Tenofov Alafenam
+      6 Clarithromycin,Clarithromycin
+      6 Cinacalcet Hcl,Cinacalcet Hcl
+      6 Cabergoline,Cabergoline
+      6 Buprenorphine,Buprenorphine
+      6 Brimonidine Tartrate,Brimonidine Tartrate
+      6 Betamethasone Diprop Augmented,Betamethasone/Propylene Glyc
+      6 Benlysta,Belimumab
+      5 Zoledronic Acid,Zoledronic Acid/Mannitol-Water
+      5 Zafirlukast,Zafirlukast
+      5 Vimpat,Lacosamide
+      5 Valganciclovir Hcl,Valganciclovir Hcl
+      5 Tysabri,Natalizumab
+      5 Twinrix,Hepatitis A And B Vaccine/Pf
+      5 Triumeq,Abacavir/Dolutegravir/Lamivudi
+      5 Trimethoprim,Trimethoprim
+      5 Treanda,Bendamustine Hcl
+      5 Tetracycline Hcl,Tetracycline Hcl
+      5 Stiolto Respimat,Tiotropium Br/Olodaterol Hcl
+      5 Sorafenib,Sorafenib Tosylate
+      5 Santyl,Collagenase Clostridium Hist.
+      5 Ramelteon,Ramelteon
+      5 Rabeprazole Sodium,Rabeprazole Sodium
+      5 Potassium Citrate Er,Potassium Citrate
+      5 Phesgo,Pertuzumab-Trastuzumab-Hy-Zzxf
+      5 Pentacel,"Dipht
+      5 Panzyga,Immun Glob G(Igg)-Ifas/Glycine
+      5 Oxycodone Hcl Er,Oxycodone Hcl
+      5 Novolin R,"Insulin Regular
+      5 Neomycin-Polymyxin-Dexameth,Neomycin/Polymyxin B/Dexametha
+      5 Lubiprostone,Lubiprostone
+      5 Levothyroxine,Levothyroxine Sodium
+      5 Levetiracetam Er,Levetiracetam
+      5 Leflunomide,Leflunomide
+      5 Ketorolac Tromethamine,Ketorolac Tromethamine
+      5 Hyqvia,"Igg/Hyaluronidase
+      5 Humalog,Insulin Lispro
+      5 Halobetasol Propionate,Halobetasol Propionate
+      5 Glyburide,Glyburide
+      5 Gemtesa,Vibegron
+      5 Fabrazyme,Agalsidase Beta
+      5 Evenity (2 Syringes),Romosozumab-Aqqg
+      5 Estring,Estradiol
+      5 Enulose,Lactulose
+      5 Endocet,Oxycodone Hcl/Acetaminophen
+      5 Diclofenac Sodium Er,Diclofenac Sodium
+      5 Dentagel,Fluoride (Sodium)
+      5 Deferiprone,Deferiprone
+      5 Decitabine,Decitabine
+      5 Clorazepate Dipotassium,Clorazepate Dipotassium
+      5 Cerezyme,Imiglucerase
+      5 Carbamazepine Er,Carbamazepine
+      5 Candesartan Cilexetil,Candesartan Cilexetil
+      5 Calcium Acetate,Calcium Acetate
+      5 Bavencio,Avelumab
+      5 Amiloride Hcl,Amiloride Hcl
+      5 Amantadine,Amantadine Hcl
+      5 Alcohol Pads,Alcohol Antiseptic Pads
+      5 Agrylin,Anagrelide Hcl
+      5 Acthib,Haemoph B Poly Conj-Tet Tox/Pf
+      4 Vivelle-Dot,Estradiol
+      4 Victoza 2-Pak,Liraglutide
+      4 Valproic Acid,Valproic Acid (As Sodium Salt)
+      4 Toviaz,Fesoterodine Fumarate
+      4 Tivicay,Dolutegravir Sodium
+      4 Timolol Maleate,Timolol Maleate
+      4 Spiriva Respimat,Tiotropium Bromide
+      4 Sodium Chloride,Sodium Chloride 0.45 %
+      4 Siklos,Hydroxyurea
+      4 Sevelamer Carbonate,Sevelamer Carbonate
+      4 Sarclisa,Isatuximab-Irfc
+      4 Repatha Sureclick,Evolocumab
+      4 Quinapril Hcl,Quinapril Hcl
+      4 Praluent Pen,Alirocumab
+      4 Peg-3350 And Electrolytes,"Peg3350/Sod Sulf
+      4 Pancreaze,Lipase/Protease/Amylase
+      4 Olmesartan-Hydrochlorothiazide,Olmesartan/Hydrochlorothiazide
+      4 Methylphenidate Er,Methylphenidate Hcl
+      4 Mesnex,Mesna
+      4 Livalo,Pitavastatin Calcium
+      4 Levoleucovorin Calcium,Levoleucovorin Calcium
+      4 Isentress,Raltegravir Potassium
+      4 Icosapent Ethyl,Icosapent Ethyl
+      4 Humira(Cf) Pen,Adalimumab
+      4 Havrix,Hepatitis A Virus Vaccine/Pf
+      4 Givlaari,Givosiran Sodium
+      4 Genvoya,Elviteg/Cob/Emtri/Tenof Alafen
+      4 Gavilyte-C,"Peg3350/Sod Sulf
+      4 Gammagard S-D,Immun Glob G/Gly/Gluc/Iga 0-50
+      4 Fluvoxamine Maleate,Fluvoxamine Maleate
+      4 Flecainide Acetate,Flecainide Acetate
+      4 Fentanyl Citrate,Fentanyl Citrate
+      4 Faslodex,Fulvestrant
+      4 Etodolac,Etodolac
+      4 Diclofenac Epolamine,Diclofenac Epolamine
+      4 Desoximetasone,Desoximetasone
+      4 Cinvanti,Aprepitant
+      4 Bisoprolol-Hydrochlorothiazide,Bisoprolol/Hydrochlorothiazide
+      4 Belsomra,Suvorexant
+      4 Androderm,Testosterone
+      4 Alcohol Prep Pads,Alcohol Antiseptic Pads
+      4 Alclometasone Dipropionate,Alclometasone Dipropionate
+      4 Albuterol Sulfate,Albuterol Sulfate
+      4 Acarbose,Acarbose
+      4 Abacavir,Abacavir Sulfate
+      3 Ziprasidone Hcl,Ziprasidone Hcl
+      3 Vyvanse,Lisdexamfetamine Dimesylate
+      3 Vyndaqel,Tafamidis Meglumine
+      3 Vincristine Sulfate,Vincristine Sulfate
+      3 Verapamil Sr,Verapamil Hcl
+      3 Varenicline Tartrate,Varenicline Tartrate
+      3 Vagifem,Estradiol
+      3 Triazolam,Triazolam
+      3 Temozolomide,Temozolomide
+      3 Soltamox,Tamoxifen Citrate
+      3 Sf,Fluoride (Sodium)
+      3 Rytary,Carbidopa/Levodopa
+      3 Rituxan Hycela,"Rituximab/Hyaluronidase
+      3 Ritonavir,Ritonavir
+      3 Protonix Iv,Pantoprazole Sodium
+      3 Proctozone-Hc,Hydrocortisone
+      3 Prezista,Darunavir Ethanolate
+      3 Prednisolone Acetate,Prednisolone Acetate
+      3 Phenytoin,Phenytoin
+      3 Percocet,Oxycodone Hcl/Acetaminophen
+      3 Pedvaxhib,Haemph B Polysac Conj-Menin/Pf
+      3 Oxymorphone Hcl,Oxymorphone Hcl
+      3 Osphena,Ospemifene
+      3 Nyvepria,Pegfilgrastim-Apgf
+      3 Novolog Mix 70-30 Flexpen,Insulin Aspart Prot/Insuln Asp
+      3 Novolin 70-30,Insulin Nph Hum/Reg Insulin Hm
+      3 Nicotrol,Nicotine
+      3 Neomycin-Polymyxin-Hc,Neomycin/Polymyxin B/Hydrocort
+      3 Narcan,Naloxone Hcl
+      3 Namzaric,Memantine Hcl/Donepezil Hcl
+      3 Naltrexone Hcl,Naltrexone Hcl
+      3 Nadolol,Nadolol
+      3 Mozobil,Plerixafor
+      3 Modafinil,Modafinil
+      3 Metformin Er Gastric,Metformin Hcl
+      3 Mesalamine,Mesalamine
+      3 Lamivudine,Lamivudine
+      3 K-Phos Original,"Potassium Phosphate
+      3 Juluca,Dolutegravir/Rilpivirine
+      3 Isosorbide Dinitrate,Isosorbide Dinitrate
+      3 Ipratropium-Albuterol,Ipratropium/Albuterol Sulfate
+      3 Inflectra,Infliximab-Dyyb
+      3 Hysingla Er,Hydrocodone Bitartrate
+      3 Humulin N,Insulin Nph Human Isophane
+      3 Heparin Sodium,"Heparin Sodium
+      3 Halaven,Eribulin Mesylate
+      3 Glipizide-Metformin,Glipizide/Metformin Hcl
+      3 Gentamicin Sulfate,Gentamicin Sulfate
+      3 Gardasil 9,Hpv Vaccine 9-Valent/Pf
+      3 Flavoxate Hcl,Flavoxate Hcl
+      3 Ezetimibe-Simvastatin,Ezetimibe/Simvastatin
+      3 Evista,Raloxifene Hcl
+      3 Epogen,Epoetin Alfa
+      3 Eplerenone,Eplerenone
+      3 Entyvio,Vedolizumab
+      3 Enbrel,Etanercept
+      3 Efavirenz-Emtric-Tenofov Disop,Efavirenz/Emtricit/Tenofovr Df
+      3 Efavirenz,Efavirenz
+      3 Easy Touch Alcohol Prep Pads,Alcohol Antiseptic Pads
+      3 Doxorubicin Hcl Liposome,Doxorubicin Hcl Peg-Liposomal
+      3 Dovato,Dolutegravir Sodium/Lamivudine
+      3 Dorzolamide-Timolol,Dorzolamide Hcl/Timolol Maleat
+      3 Dextrose In Water,Dextrose 5 % In Water
+      3 Desmopressin Acetate,Desmopressin Acetate
+      3 Desloratadine,Desloratadine
+      3 Cometriq,Cabozantinib S-Malate
+      3 Clobetasol Emollient,Clobetasol Propionate/Emoll
+      3 Cimzia,Certolizumab Pegol
+      3 Ciclopirox,Ciclopirox Olamine
+      3 Caspofungin Acetate,Caspofungin Acetate
+      3 Butalb-Acetaminoph-Caff-Codein,Butalbit/Acetamin/Caff/Codeine
+      3 Breztri Aerosphere,Budesonide/Glycopyr/Formoterol
+      3 Bepotastine Besilate,Bepotastine Besilate
+      3 Bendeka,Bendamustine Hcl
+      3 Benazepril-Hydrochlorothiazide,Benazepril/Hydrochlorothiazide
+      3 Balversa,Erdafitinib
+      3 Autoshield Duo Pen Needle,"Pen Needle
+      3 Atenolol-Chlorthalidone,Atenolol/Chlorthalidone
+      3 Atazanavir Sulfate,Atazanavir Sulfate
+      3 Amlodipine-Valsartan,Amlodipine Besylate/Valsartan
+      3 Amiloride-Hydrochlorothiazide,Amiloride/Hydrochlorothiazide
+      3 Aimovig Autoinjector,Erenumab-Aooe
+      3 Advair Hfa,Fluticasone Propion/Salmeterol
+      3 Actemra,Tocilizumab
+      2 Zynlonta,Loncastuximab Tesirine-Lpyl
+      2 Zonisamide,Zonisamide
+      2 Zolmitriptan,Zolmitriptan
+      2 Zidovudine,Zidovudine
+      2 Zavesca,Miglustat
+      2 Welchol,Colesevelam Hcl
+      2 Verapamil Er Pm,Verapamil Hcl
+      2 Venclexta Starting Pack,Venetoclax
+      2 Valproic Acid,Valproic Acid
+      2 Unithroid,Levothyroxine Sodium
+      2 Ultra-Fine Short Pen Needle,"Pen Needle
+      2 Ultomiris,Ravulizumab-Cwvz
+      2 Ulticare Pen Needle,"Pen Needle
+      2 Turalio,Pexidartinib Hydrochloride
+      2 Trueplus Insulin Syringe,"Syringe And Needle
+      2 Trospium Chloride Er,Trospium Chloride
+      2 Trodelvy,Sacituzumab Govitecan-Hziy
+      2 Travoprost,Travoprost
+      2 Toujeo Solostar,"Insulin Glargine
+      2 Theophylline,Theophylline Anhydrous
+      2 Theo-24,Theophylline Anhydrous
+      2 Terbinafine Hcl,Terbinafine Hcl
+      2 Tenivac,Tetanus-Diphtheria Toxoids/Pf
+      2 Tdvax,"Tetanus
+      2 Symtuza,Darunavir/Cob/Emtri/Tenof Alaf
+      2 Sustol,Granisetron
+      2 Sure Comfort,"Syringe And Needle
+      2 Sulfasalazine Dr,Sulfasalazine
+      2 Suboxone,Buprenorphine Hcl/Naloxone Hcl
+      2 Stelara,Ustekinumab
+      2 Single Use Swab,Alcohol Antiseptic Pads
+      2 Sf 5000 Plus,Fluoride (Sodium)
+      2 Serevent Diskus,Salmeterol Xinafoate
+      2 Sensipar,Cinacalcet Hcl
+      2 Roxicodone,Oxycodone Hcl
+      2 Rivastigmine,Rivastigmine Tartrate
+      2 Rivastigmine,Rivastigmine
+      2 Repaglinide,Repaglinide
+      2 Renflexis,Infliximab-Abda
+      2 Relistor,Methylnaltrexone Bromide
+      2 Rayos,Prednisone
+      2 Rasagiline Mesylate,Rasagiline Mesylate
+      2 Propranolol Hcl Er,Propranolol Hcl
+      2 Proctosol-Hc,Hydrocortisone
+      2 Probenecid,Probenecid
+      2 Prezcobix,Darunavir/Cobicistat
+      2 Prevident,Fluoride (Sodium)
+      2 Prenatal Vitamin Plus Low Iron,"Pnv
+      2 Prazosin Hcl,Prazosin Hcl
+      2 Prasugrel Hcl,Prasugrel Hcl
+      2 Potassium Chloride-0.9% Nacl,Potassium Chloride In 0.9%nacl
+      2 Pediarix,Hep B Vaccine/Dp(A)t-Polio/Pf
+      2 Paroxetine Er,Paroxetine Hcl
+      2 Orencia,Abatacept/Maltose
+      2 Opdualag,Nivolumab-Relatlimab-Rmbw
+      2 Olmesartan-Amlodipine-Hctz,Olmesartan/Amlodipin/Hcthiazid
+      2 Ofloxacin,Ofloxacin
+      2 Odefsey,Emtricitab/Rilpiviri/Tenof Ala
+      2 Nuedexta,Dextromethorphan Hbr/Quinidine
+      2 Nucynta Er,Tapentadol Hcl
+      2 Noxafil,Posaconazole
+      2 Novolin N Flexpen,Insulin Nph Human Isophane
+      2 Norethindron-Ethinyl Estradiol,Norethindrone Ac-Eth Estradiol
+      2 Nitroglycerin Patch,Nitroglycerin
+      2 Nateglinide,Nateglinide
+      2 Naproxen-Esomeprazole Mag,Naproxen/Esomeprazole Mag
+      2 Mupirocin,Mupirocin Calcium
+      2 Multaq,Dronedarone Hcl
+      2 Micafungin,Micafungin Sodium
+      2 Methotrexate Sodium,Methotrexate Sodium/Pf
+      2 Magnesium Sulfate,Magnesium Sulfate In Water
+      2 Lunesta,Eszopiclone
+      2 Lumigan,Bimatoprost
+      2 Lithium Carbonate,Lithium Carbonate
+      2 Lexapro,Escitalopram Oxalate
+      2 Levocarnitine,Levocarnitine
+      2 Latuda,Lurasidone Hcl
+      2 Lamotrigine Er,Lamotrigine
+      2 Lamivudine-Zidovudine,Lamivudine/Zidovudine
+      2 Klor-Con,Potassium Chloride
+      2 Kineret,Anakinra
+      2 Isosorbide Mononitrate,Isosorbide Mononitrate
+      2 Insulin Glargine-Yfgn,Insulin Glargine-Yfgn
+      2 Ingrezza,Valbenazine Tosylate
+      2 Indomethacin,Indomethacin
+      2 Indapamide,Indapamide
+      2 Hydromorphone Er,Hydromorphone Hcl
+      2 Gammaplex,Immun Glob G/Sorb/Gly/Iga 0-50
+      2 Galantamine Hbr,Galantamine Hbr
+      2 Fosamax Plus D,Alendronate Sodium/Vitamin D3
+      2 Flunisolide,Flunisolide
+      2 Flovent Diskus,Fluticasone Propionate
+      2 Ferriprox,Deferiprone
+      2 Exkivity,Mobocertinib Succinate
+      2 Evotaz,Atazanavir Sulfate/Cobicistat
+      2 Etravirine,Etravirine
+      2 Etonogestrel-Ethinyl Estradiol,Etonogestrel/Ethinyl Estradiol
+      2 Estradiol-Norethindrone Acetat,Estradiol/Norethindrone Acet
+      2 Ertapenem,Ertapenem Sodium
+      2 Enbrel Sureclick,Etanercept
+      2 Elelyso,Taliglucerase Alfa
+      2 Edurant,Rilpivirine Hcl
+      2 Easy Touch Pen Needle,"Pen Needle
+      2 Dutasteride-Tamsulosin,Dutasteride/Tamsulosin Hcl
+      2 Dulera,Mometasone/Formoterol
+      2 Droplet Pen Needle,"Pen Needle
+      2 Dorzolamide-Timolol,Dorzolamide/Timolol/Pf
+      2 Dorzolamide Hcl,Dorzolamide Hcl
+      2 Dipyridamole,Dipyridamole
+      2 Diovan,Valsartan
+      2 Diltiazem 24hr Er,Diltiazem Hcl
+      2 Diltiazem 12hr Er,Diltiazem Hcl
+      2 Dilaudid,Hydromorphone Hcl
+      2 Dextrose In Water,Dextrose 70 % In Water
+      2 Dextrose 5%-0.9% Nacl,Dextrose 5 % And 0.9 % Nacl
+      2 Dexamethasone Intensol,Dexamethasone
+      2 Demeclocycline Hcl,Demeclocycline Hcl
+      2 Deferoxamine Mesylate,Deferoxamine Mesylate
+      2 Daptomycin,Daptomycin
+      2 Cuvitru,Immun Glob G(Igg)/Gly/Iga Ov50
+      2 Cutaquig,Immun Glob G(Igg)-Hipp/Maltose
+      2 Comfort Ez Pen Needle,"Pen Needle
+      2 Combigan,Brimonidine Tartrate/Timolol
+      2 Clomipramine Hcl,Clomipramine Hcl
+      2 Chlorpromazine Hcl,Chlorpromazine Hcl
+      2 Ceftriaxone,Ceftriaxone Sodium
+      2 Carbidopa-Levodopa Er,Carbidopa/Levodopa
+      2 Bystolic,Nebivolol Hcl
+      2 Butalbital-Aspirin-Caffeine,Butalbital/Aspirin/Caffeine
+      2 Buprenorphine Hcl,Buprenorphine Hcl
+      2 Budesonide-Formoterol Fumarate,Budesonide/Formoterol Fumarate
+      2 Bexsero,"Meningococcal B Vaccine
+      2 Bethanechol Chloride,Bethanechol Chloride
+      2 Benzonatate,Benzonatate
+      2 Aspirin-Dipyridamole Er,Aspirin/Dipyridamole
+      2 Arnuity Ellipta,Fluticasone Furoate
+      2 Armodafinil,Armodafinil
+      2 Amlodipine-Olmesartan,Amlodipine Bes/Olmesartan Med
+      2 Ambien,Zolpidem Tartrate
+      2 Adacel Tdap,"Diph
+      2 Acetazolamide,Acetazolamide
+      1 Zubsolv,Buprenorphine Hcl/Naloxone Hcl
+      1 Zoloft,Sertraline Hcl
+      1 Zirgan,Ganciclovir
+      1 Zepzelca,Lurbinectedin
+      1 Xyosted,Testosterone Enanthate
+      1 Xembify,"Immune Globulin
+      1 Xeljanz,Tofacitinib Citrate
+      1 Vizimpro,Dacomitinib
+      1 Viread,Tenofovir Disoproxil Fumarate
+      1 Viokace,Lipase/Protease/Amylase
+      1 Verapamil Hcl,Verapamil Hcl
+      1 Varivax Vaccine,Varicella Vaccine Live/Pf
+      1 Vaqta,Hepatitis A Virus Vaccine/Pf
+      1 Valtrex,Valacyclovir Hcl
+      1 Unifine Safecontrol,"Pen Needle
+      1 Unifine Pentips,"Pen Needle
+      1 Ultra-Fine Nano Pen Needle,"Pen Needle
+      1 Ultra-Fine Mini Pen Needle,"Pen Needle
+      1 Ultracare Pen Needle,"Pen Needle
+      1 Uloric,Febuxostat
+      1 Typhim Vi,Typhoid Vi Polysacch Vaccine
+      1 Tymlos,Abaloparatide
+      1 Truvada,Emtricitabine/Tenofovir (Tdf)
+      1 Truseltiq,Infigratinib Phosphate
+      1 Trulance,Plecanatide
+      1 Trueplus Insulin Syringe,"Syringe-Needle
+      1 Triamterene,Triamterene
+      1 Travasol,Parenteral Amino Acid 10% No.6
+      1 Tolvaptan,Tolvaptan
+      1 Tobradex,Tobramycin/Dexamethasone
+      1 Tlando,Testosterone Undecanoate
+      1 Tirosint,Levothyroxine Sodium
+      1 Timoptic Ocudose,Timolol Maleate/Pf
+      1 Theophylline Er,Theophylline Anhydrous
+      1 Tezspire,Tezepelumab-Ekko
+      1 Teriparatide,Teriparatide
+      1 Terbutaline Sulfate,Terbutaline Sulfate
+      1 Tepezza,Teprotumumab-Trbw
+      1 Temsirolimus,Temsirolimus
+      1 Telmisartan-Hydrochlorothiazid,Telmisartan/Hydrochlorothiazid
+      1 Tegsedi,Inotersen Sodium
+      1 Synjardy,Empagliflozin/Metformin Hcl
+      1 Sutab,Sod Sulf/Pot Chloride/Mag Sulf
+      1 Sure Comfort,"Syring-Needl
+      1 Sure Comfort Pen Needle,"Pen Needle
+      1 Subsys,Fentanyl
+      1 Sprintec,Norgestimate-Ethinyl Estradiol
+      1 Soma,Carisoprodol
+      1 Sod Sulf-Potass Sulf-Mag Sulf,"Sodium
+      1 Sodium Phosphate,"Sod Phosphate
+      1 Sodium Fluoride 5000 Plus,Fluoride (Sodium)
+      1 Sodium Acetate,Sodium Acetate
+      1 Smoflipid,Fat Emul/Soy/Mct/Oliv/Fish Oil
+      1 Skyrizi,Risankizumab-Rzaa
+      1 Simbrinza,Brinzolamide/Brimonidine Tart
+      1 Sevelamer Hcl,Sevelamer Hcl
+      1 Serostim,Somatropin
+      1 Selzentry,Maraviroc
+      1 Salsalate,Salsalate
+      1 Rufinamide,Rufinamide
+      1 Ropinirole Er,Ropinirole Hcl
+      1 Ritalin,Methylphenidate Hcl
+      1 Risperidone Odt,Risperidone
+      1 Riluzole,Riluzole
+      1 Reyvow,Lasmiditan Succinate
+      1 Repatha Syringe,Evolocumab
+      1 Renvela,Sevelamer Carbonate
+      1 Rayaldee,Calcifediol
+      1 Quetiapine Fumarate Er,Quetiapine Fumarate
+      1 Pyrukynd,Mitapivat Sulfate
+      1 Pyridostigmine Bromide,Pyridostigmine Bromide
+      1 Pyridostigmine Bromide Er,Pyridostigmine Bromide
+      1 Purixan,Mercaptopurine
+      1 Prozac,Fluoxetine Hcl
+      1 Protonix,Pantoprazole Sodium
+      1 Prosol,Parenteral Amino Acid 20% No.1
+      1 Proscar,Finasteride
+      1 Promethegan,Promethazine Hcl
+      1 Proctofoam-Hc,Hydrocortisone/Pramoxine
+      1 Pro Comfort Alcohol Pads,Alcohol Antiseptic Pads
+      1 Prevident 5000 Enamel Protect,Sodium Fluoride/Potassium Nit
+      1 Prevalite,Cholestyramine/Aspartame
+      1 Prednisolone Sodium Phosphate,Prednisolone Sodium Phosphate
+      1 Potassium Chloride-0.45% Nacl,Potassium Chloride-0.45% Nacl
+      1 Polymyxin B Sul-Trimethoprim,Polymyxin B Sulf/Trimethoprim
+      1 Plenvu,Peg3350/Sod Sul/Nacl/Kcl/Asb/C
+      1 Plenamine,Parenteral Amino Acid 15% No.6
+      1 Plavix,Clopidogrel Bisulfate
+      1 Piroxicam,Piroxicam
+      1 Piperacillin-Tazobactam,Piperacillin Sodium/Tazobactam
+      1 Pimecrolimus,Pimecrolimus
+      1 Phenelzine Sulfate,Phenelzine Sulfate
+      1 Permethrin,Permethrin
+      1 Perindopril Erbumine,Perindopril Erbumine
+      1 Pepcid,Famotidine
+      1 Pennsaid,Diclofenac Sodium
+      1 Pen Needles,"Pen Needle
+      1 Peg3350-Sod Sul-Nacl-Kcl-Asb-C,Peg3350/Sod Sul/Nacl/Kcl/Asb/C
+      1 Panretin,Alitretinoin
+      1 Padcev,Enfortumab Vedotin-Ejfv
+      1 Oxtellar Xr,Oxcarbazepine
+      1 Oxazepam,Oxazepam
+      1 Oxandrolone,Oxandrolone
+      1 Otezla,Apremilast
+      1 Oseltamivir Phosphate,Oseltamivir Phosphate
+      1 Orphenadrine Citrate Er,Orphenadrine Citrate
+      1 Orilissa,Elagolix Sodium
+      1 Orenitram Er,Treprostinil Diolamine
+      1 Onivyde,Irinotecan Liposomal
+      1 Onglyza,Saxagliptin Hcl
+      1 Ocrevus,Ocrelizumab
+      1 Nurtec Odt,Rimegepant Sulfate
+      1 Nuplazid,Pimavanserin Tartrate
+      1 Nucynta,Tapentadol Hcl
+      1 Np Thyroid,"Thyroid
+      1 Novolin N,Insulin Nph Human Isophane
+      1 Norgestimate-Ethinyl Estradiol,Norgestimate-Ethinyl Estradiol
+      1 Niva-Plus,Multivit-Mins60/Iron Fum/Folic
+      1 Niacin Er,Niacin
+      1 Nexviazyme,Avalglucosidase Alfa-Ngpt
+      1 Nexletol,Bempedoic Acid
+      1 Nevirapine,Nevirapine
+      1 Nevirapine Er,Nevirapine
+      1 Neurontin,Gabapentin
+      1 Neupro,Rotigotine
+      1 Neoral,"Cyclosporine
+      1 Neomycin-Polymyxin-Hydrocort,Neomycin/Polymyxin B/Hydrocort
+      1 Naproxen Sodium,Naproxen Sodium
+      1 Naproxen Sodium Cr,Naproxen Sodium
+      1 Myorisan,Isotretinoin
+      1 Mycophenolic Acid,Mycophenolate Sodium
+      1 Moxifloxacin Hcl,Moxifloxacin Hcl
+      1 Mounjaro,Tirzepatide
+      1 Motofen,Difenoxin Hcl/Atropine Sulfate
+      1 Mitoxantrone Hcl,Mitoxantrone Hcl
+      1 Mitomycin,Mitomycin
+      1 Miglustat,Miglustat
+      1 Micardis Hct,Telmisartan/Hydrochlorothiazid
+      1 Mexiletine Hcl,Mexiletine Hcl
+      1 Methylprednisolone Acetate,Methylprednisolone Acetate
+      1 Mestinon,Pyridostigmine Bromide
+      1 Mesna,Mesna
+      1 Mesalamine Er,Mesalamine
+      1 Meropenem,Meropenem
+      1 Menquadfi,"Mening Vac A
+      1 Menactra,"Mening Vac A
+      1 Magnesium Chloride,Magnesium Chloride
+      1 Lyllana,Estradiol
+      1 Luer-Lok Syringe,"Syringe
+      1 Loxapine,Loxapine Succinate
+      1 Lorazepam Intensol,Lorazepam
+      1 Lithium Carbonate Er,Lithium Carbonate
+      1 Linezolid,Linezolid
+      1 Levoxyl,Levothyroxine Sodium
+      1 Leqvio,Inclisiran Sodium
+      1 Larin,Norethindrone Ac-Eth Estradiol
+      1 Lanreotide Acetate,Lanreotide Acetate
+      1 K-Tab Er,Potassium Chloride
+      1 Krystexxa,Pegloticase
+      1 Kristalose,Lactulose
+      1 Kerendia,Finerenone
+      1 Keppra,Levetiracetam
+      1 Jynarque,Tolvaptan
+      1 Junel,Norethindrone Ac-Eth Estradiol
+      1 Junel Fe,Norethindrone-E.Estradiol-Iron
+      1 Jentadueto,Linagliptin/Metformin Hcl
+      1 Jemperli,Dostarlimab-Gxly
+      1 Jadenu Sprinkle,Deferasirox
+      1 Ivermectin,Ivermectin
+      1 Itraconazole,Itraconazole
+      1 Istodax,Romidepsin
+      1 Isoniazid,Isoniazid
+      1 Invega Sustenna,Paliperidone Palmitate
+      1 Intrarosa,Prasterone (Dhea)
+      1 Intralipid,Fat Emulsions
+      1 Insulin Syringe,"Syring-Needl
+      1 Insulin Syringe,"Syringe-Needle
+      1 Insulin Lispro Protamine Mix,Insulin Lispro Protamin/Lispro
+      1 Insulin Lispro,Insulin Lispro
+      1 Insulin Aspart Prot Mix 70-30,Insulin Aspart Prot/Insuln Asp
+      1 Insulin Aspart,Insulin Aspart
+      1 Insulin Aspart Flexpen,Insulin Aspart
+      1 Infugem,Gemcitabine Hcl In 0.9 % Nacl
+      1 Infanrix Dtap,"Diph
+      1 Ibuprofen-Famotidine,Ibuprofen/Famotidine
+      1 Humulin R U-500 Kwikpen,"Insulin Regular
+      1 Humulin R,"Insulin Regular
+      1 Humulin 70-30,Insulin Nph Hum/Reg Insulin Hm
+      1 Humira,Adalimumab
+      1 Humalog Mix 50-50 Kwikpen,Insulin Lispro Protamin/Lispro
+      1 Horizant,Gabapentin Enacarbil
+      1 Herceptin Hylecta,Trastuzumab-Hyaluronidase-Oysk
+      1 Heather,Norethindrone
+      1 Haloperidol Lactate,Haloperidol Lactate
+      1 Haloperidol Decanoate,Haloperidol Decanoate
+      1 Gralise,Gabapentin
+      1 Glucagen,Glucagon
+      1 Glipizide Xl,Glipizide
+      1 Gentak,Gentamicin Sulfate
+      1 Genotropin,Somatropin
+      1 Gattex,Teduglutide
+      1 Galantamine Er,Galantamine Hbr
+      1 Fosfomycin Tromethamine,Fosfomycin Tromethamine
+      1 Forteo,Teriparatide
+      1 Fluphenazine Hcl,Fluphenazine Hcl
+      1 Fluorometholone,Fluorometholone
+      1 Fluoridex,Fluoride (Sodium)
+      1 Fluocinolone Acetonide,Fluocinolone Acetonide
+      1 Fluconazole-Nacl,"Fluconazole In Nacl
+      1 Fareston,Toremifene Citrate
+      1 Fanapt,Iloperidone
+      1 Exelon,Rivastigmine
+      1 Estarylla,Norgestimate-Ethinyl Estradiol
+      1 Epinephrine,Epinephrine
+      1 Engerix-B Adult,Hepatitis B Virus Vaccine/Pf
+      1 Emtricitabine-Tenofovir Disop,Emtricitabine/Tenofovir (Tdf)
+      1 Emgality Syringe,Galcanezumab-Gnlm
+      1 Emgality Pen,Galcanezumab-Gnlm
+      1 Emcyt,Estramustine Phosphate Sodium
+      1 Elmiron,Pentosan Polysulfate Sodium
+      1 Eletriptan Hbr,Eletriptan Hydrobromide
+      1 Effer-K,Potassium Bicarbonate/Cit Ac
+      1 Edarbi,Azilsartan Medoxomil
+      1 Econazole Nitrate,Econazole Nitrate
+      1 Easy Comfort Pen Needle,"Pen Needle
+      1 Dupixent Syringe,Dupilumab
+      1 Droxidopa,Droxidopa
+      1 Dofetilide,Dofetilide
+      1 Dilt-Xr,Diltiazem Hcl
+      1 Dilantin-125,Phenytoin
+      1 Diclofenac Sodium-Misoprostol,Diclofenac Sodium/Misoprostol
+      1 Dextrose In Water,Dextrose 10 % In Water
+      1 Dextrose 5%-0.45% Nacl,Dextrose 5 %-0.45 % Sod Chlord
+      1 Dextroamphetamine Sulfate Er,Dextroamphetamine Sulfate
+      1 Dexmethylphenidate Hcl,Dexmethylphenidate Hcl
+      1 Desonide,Desonide
+      1 Desmopressin Acetate,Desmopressin (Nonrefrigerated)
+      1 Desipramine Hcl,Desipramine Hcl
+      1 Desferal Mesylate,Deferoxamine Mesylate
+      1 Delstrigo,Doravirine/Lamivu/Tenofov Diso
+      1 Deferiprone (3 Times A Day),Deferiprone
+      1 Darifenacin Er,Darifenacin Hydrobromide
+      1 Daptacel Dtap,"Diph
+      1 Dantrolene Sodium,Dantrolene Sodium
+      1 Daliresp,Roflumilast
+      1 Dabigatran Etexilate,Dabigatran Etexilate Mesylate
+      1 Cystadane,Betaine
+      1 Crysvita,Burosumab-Twza
+      1 Cryselle,Norgestrel-Ethinyl Estradiol
+      1 Cosentyx Syringe,Secukinumab
+      1 Coreg Cr,Carvedilol Phosphate
+      1 Copaxone,Glatiramer Acetate
+      1 Complera,Emtricita/Rilpivirine/Tenof Df
+      1 Codeine Sulfate,Codeine Sulfate
+      1 Clozapine,Clozapine
+      1 Climara Pro,Estradiol/Levonorgestrel
+      1 Ciprofloxacin-Dexamethasone,Ciprofloxacin Hcl/Dexameth
+      1 Cinqair,Reslizumab
+      1 Ciclopirox,Ciclopirox
+      1 Chlordiazepoxide Hcl,Chlordiazepoxide Hcl
+      1 Cellcept,Mycophenolate Mofetil
+      1 Cefepime Hcl,Cefepime Hcl
+      1 Cefaclor,Cefaclor
+      1 Casodex,Bicalutamide
+      1 Captopril,Captopril
+      1 Caprelsa,Vandetanib
+      1 Cablivi,Caplacizumab-Yhdp
+      1 Butrans,Buprenorphine
+      1 Budesonide Er,Budesonide
+      1 Budesonide,Budesonide
+      1 Bromocriptine Mesylate,Bromocriptine Mesylate
+      1 Brinzolamide,Brinzolamide
+      1 Bosentan,Bosentan
+      1 Boniva,Ibandronate Sodium
+      1 Blisovi Fe,Norethindrone-E.Estradiol-Iron
+      1 Blenrep,Belantamab Mafodotin-Blmf
+      1 Bevespi Aerosphere,Glycopyrrolate/Formoterol Fum
+      1 Baraclude,Entecavir
+      1 Bacitracin-Polymyxin,Bacitracin/Polymyxin B Sulfate
+      1 Austedo,Deutetrabenazine
+      1 Auryxia,Ferric Citrate
+      1 Atovaquone-Proguanil Hcl,Atovaquone/Proguanil Hcl
+      1 Arixtra,Fondaparinux Sodium
+      1 Aripiprazole Odt,Aripiprazole
+      1 Androgel,Testosterone
+      1 Ampicillin Trihydrate,Ampicillin Trihydrate
+      1 Ampicillin-Sulbactam,Ampicillin Sod/Sulbactam Sod
+      1 Ampicillin Sodium,Ampicillin Sodium
+      1 Amicar,Aminocaproic Acid
+      1 Ambien Cr,Zolpidem Tartrate
+      1 Amaryl,Glimepiride
+      1 Alprazolam Odt,Alprazolam
+      1 Alphagan P,Brimonidine Tartrate
+      1 Alogliptin,Alogliptin Benzoate
+      1 Alcohol Swabs,Alcohol Antiseptic Pads
+      1 Adefovir Dipivoxil,Adefovir Dipivoxil
+      1 Adcetris,Brentuximab Vedotin
+      1 Actemra Actpen,Tocilizumab
+      1 Acitretin,Acitretin
+      1 Aciphex,Rabeprazole Sodium

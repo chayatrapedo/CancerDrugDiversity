@@ -1,0 +1,217 @@
+Anastrozole,Anastrozole
+Letrozole,Letrozole
+Hydroxyurea,Hydroxyurea
+Revlimid,Lenalidomide
+Tamoxifen Citrate,Tamoxifen Citrate
+Imbruvica,Ibrutinib
+Abiraterone Acetate,Abiraterone Acetate
+Ibrance,Palbociclib
+Exemestane,Exemestane
+Imatinib Mesylate,Imatinib Mesylate
+Xtandi,Enzalutamide
+Pomalyst,Pomalidomide
+Venclexta,Venetoclax
+Calquence,Acalabrutinib
+Tagrisso,Osimertinib Mesylate
+Bicalutamide,Bicalutamide
+Sprycel,Dasatinib
+Cabometyx,Cabozantinib S-Malate
+Verzenio,Abemaciclib
+Erleada,Apalutamide
+Tasigna,Nilotinib Hcl
+Lynparza,Olaparib
+Ninlaro,Ixazomib Citrate
+Inlyta,Axitinib
+Lenvima,Lenvatinib Mesylate
+Lenalidomide,Lenalidomide
+Brukinsa,Zanubrutinib
+Orgovyx,Relugolix
+Everolimus,Everolimus
+Dronabinol,Dronabinol
+Nubeqa,Darolutamide
+Zarxio,Filgrastim-Sndz
+Bosulif,Bosutinib
+Kisqali,Ribociclib Succinate
+Mekinist,Trametinib Dimethyl Sulfoxide
+Alecensa,Alectinib Hcl
+Gleevec,Imatinib Mesylate
+Zejula,Niraparib Tosylate
+Votrient,Pazopanib Hcl
+Keytruda,Pembrolizumab
+Lonsurf,Trifluridine/Tipiracil Hcl
+Erlotinib Hcl,Erlotinib Hcl
+Inqovi,Decitabine/Cedazuridine
+Braftovi,Encorafenib
+Fulvestrant,Fulvestrant
+Mektovi,Binimetinib
+Sunitinib Malate,Sunitinib Malate
+Zytiga,Abiraterone Acetate
+Lumakras,Sotorasib
+Opdivo,Nivolumab
+Carboplatin,Carboplatin
+Calquence,Acalabrutinib Maleate
+Neulasta Onpro,Pegfilgrastim
+Sandostatin Lar Depot,"Octreotide Acetate
+Aprepitant,Aprepitant
+Iclusig,Ponatinib Hcl
+Gilotrif,Afatinib Dimaleate
+Neulasta,Pegfilgrastim
+Xalkori,Crizotinib
+Lorbrena,Lorlatinib
+Tukysa,Tucatinib
+Leucovorin Calcium,Leucovorin Calcium
+Tabrecta,Capmatinib Hydrochloride
+Darzalex Faspro,Daratumumab-Hyaluronidase-Fihj
+Stivarga,Regorafenib
+Tibsovo,Ivosidenib
+Retevmo,Selpercatinib
+Droxia,Hydroxyurea
+Erivedge,Vismodegib
+Tecentriq,Atezolizumab
+Oxaliplatin,Oxaliplatin
+Rubraca,Rucaparib Camsylate
+Akynzeo,Fosnetupitant/Palonosetron
+Inrebic,Fedratinib Dihydrochloride
+Avastin,Bevacizumab
+Paclitaxel,Paclitaxel
+Onureg,Azacitidine
+Fluorouracil,Fluorouracil
+Fotivda,Tivozanib Hcl
+Idhifa,Enasidenib Mesylate
+Fosaprepitant Dimeglumine,Fosaprepitant Dimeglumine
+Xermelo,Telotristat Etiprate
+Docetaxel,Docetaxel
+Gemcitabine Hcl,Gemcitabine Hcl
+Bortezomib,Bortezomib
+Xospata,Gilteritinib Fumarate
+Perjeta,Pertuzumab
+Neupogen,Filgrastim
+Nexavar,Sorafenib Tosylate
+Mvasi,Bevacizumab-Awwb
+Lapatinib,Lapatinib Ditosylate
+Darzalex,Daratumumab
+Bexarotene,Bexarotene
+Velcade,Bortezomib
+Irinotecan Hcl,Irinotecan Hcl
+Alunbrig,Brigatinib
+Zelboraf,Vemurafenib
+Leukeran,Chlorambucil
+Azacitidine,Azacitidine
+Scemblix,Asciminib Hydrochloride
+Pemazyre,Pemigatinib
+Herceptin,Trastuzumab
+Alimta,Pemetrexed Disodium
+Ziextenzo,Pegfilgrastim-Bmez
+Xpovio,Selinexor
+Zirabev,Bevacizumab-Bvzr
+Trelstar,Triptorelin Pamoate
+Kyprolis,Carfilzomib
+Imfinzi,Durvalumab
+Arimidex,Anastrozole
+Toremifene Citrate,Toremifene Citrate
+Besremi,Ropeginterferon Alfa-2b-Njft
+Nerlynx,Neratinib Maleate
+Copiktra,Duvelisib
+Zydelig,Idelalisib
+Kanjinti,Trastuzumab-Anns
+Ayvakit,Avapritinib
+Abraxane,Paclitaxel Protein-Bound
+Yonsa,"Abiraterone Acet
+Rydapt,Midostaurin
+Ruxience,Rituximab-Pvvr
+Fulphila,Pegfilgrastim-Jmdb
+Cotellic,Cobimetinib Fumarate
+Trazimera,Trastuzumab-Qyyp
+Sutent,Sunitinib Malate
+Mercaptopurine,Mercaptopurine
+Iressa,Gefitinib
+Femara,Letrozole
+Kadcyla,Ado-Trastuzumab Emtansine
+Welireg,Belzutifan
+Vitrakvi,Larotrectinib Sulfate
+Lysodren,Mitotane
+Varubi,Rolapitant Hcl
+Pemetrexed Disodium,Pemetrexed Disodium
+Granix,Tbo-Filgrastim
+Cisplatin,Cisplatin
+Erbitux,Cetuximab
+Udenyca,Pegfilgrastim-Cbqv
+Qinlock,Ripretinib
+Paclitaxel Protein-Bound,Paclitaxel Protein-Bound
+Odomzo,Sonidegib Phosphate
+Gavreto,Pralsetinib
+Zykadia,Ceritinib
+Yervoy,Ipilimumab
+Tykerb,Lapatinib Ditosylate
+Akynzeo,Netupitant/Palonosetron Hcl
+Nilutamide,Nilutamide
+Jevtana,Cabazitaxel
+Cromolyn Sodium,Cromolyn Sodium
+Tazverik,Tazemetostat Hydrobromide
+Gazyva,Obinutuzumab
+Enhertu,Fam-Trastuzumab Deruxtecn-Nxki
+Doxorubicin Hcl,Doxorubicin Hcl
+Cyramza,Ramucirumab
+Zolinza,Vorinostat
+Tepmetko,Tepotinib Hcl
+Talzenna,Talazoparib Tosylate
+Empliciti,Elotuzumab
+Zoladex,Goserelin Acetate
+Vonjo,Pacritinib Citrate
+Vectibix,Panitumumab
+Ontruzant,Trastuzumab-Dttb
+Libtayo,Cemiplimab-Rwlc
+Hydrea,Hydroxyurea
+Firmagon,Degarelix Acetate
+Etoposide,Etoposide
+Capecitabine,Capecitabine
+Aromasin,Exemestane
+Valchlor,Mechlorethamine Hcl
+Synribo,Omacetaxine Mepesuccinate
+Rozlytrek,Entrectinib
+Ogivri,Trastuzumab-Dkst
+Treanda,Bendamustine Hcl
+Sorafenib,Sorafenib Tosylate
+Phesgo,Pertuzumab-Trastuzumab-Hy-Zzxf
+Decitabine,Decitabine
+Bavencio,Avelumab
+Agrylin,Anagrelide Hcl
+Sarclisa,Isatuximab-Irfc
+Mesnex,Mesna
+Levoleucovorin Calcium,Levoleucovorin Calcium
+Faslodex,Fulvestrant
+Cinvanti,Aprepitant
+Vincristine Sulfate,Vincristine Sulfate
+Temozolomide,Temozolomide
+Soltamox,Tamoxifen Citrate
+Rituxan Hycela,"Rituximab/Hyaluronidase
+Nyvepria,Pegfilgrastim-Apgf
+Mozobil,Plerixafor
+Halaven,Eribulin Mesylate
+Doxorubicin Hcl Liposome,Doxorubicin Hcl Peg-Liposomal
+Cometriq,Cabozantinib S-Malate
+Zynlonta,Loncastuximab Tesirine-Lpyl
+Venclexta Starting Pack,Venetoclax
+Turalio,Pexidartinib Hydrochloride
+Trodelvy,Sacituzumab Govitecan-Hziy
+Opdualag,Nivolumab-Relatlimab-Rmbw
+Exkivity,Mobocertinib Succinate
+Zepzelca,Lurbinectedin      
+Vizimpro,Dacomitinib
+Truseltiq,Infigratinib Phosphate
+Temsirolimus,Temsirolimus
+Purixan,Mercaptopurine
+Panretin,Alitretinoin
+Padcev,Enfortumab Vedotin-Ejfv
+Onivyde,Irinotecan Liposomal      
+Mitomycin,Mitomycin
+Jemperli,Dostarlimab-Gxly
+Istodax,Romidepsin
+Infugem,Gemcitabine Hcl In 0.9 % Nacl
+Herceptin Hylecta,Trastuzumab-Hyaluronidase-Oysk
+Fareston,Toremifene Citrate
+Emcyt,Estramustine Phosphate Sodium
+Casodex,Bicalutamide
+Caprelsa,Vandetanib
+Blenrep,Belantamab Mafodotin-Blmf
+Adcetris,Brentuximab Vedotin

@@ -1,0 +1,330 @@
+     1	NPI
+     2	Entity Type Code
+     3	Replacement NPI
+     4	Employer Identification Number (EIN)
+     5	Provider Organization Name (Legal Business Name)
+     6	Provider Last Name (Legal Name)
+     7	Provider First Name
+     8	Provider Middle Name
+     9	Provider Name Prefix Text
+    10	Provider Name Suffix Text
+    11	Provider Credential Text
+    12	Provider Other Organization Name
+    13	Provider Other Organization Name Type Code
+    14	Provider Other Last Name
+    15	Provider Other First Name
+    16	Provider Other Middle Name
+    17	Provider Other Name Prefix Text
+    18	Provider Other Name Suffix Text
+    19	Provider Other Credential Text
+    20	Provider Other Last Name Type Code
+    21	Provider First Line Business Mailing Address
+    22	Provider Second Line Business Mailing Address
+    23	Provider Business Mailing Address City Name
+    24	Provider Business Mailing Address State Name
+    25	Provider Business Mailing Address Postal Code
+    26	Provider Business Mailing Address Country Code (If outside U.S.)
+    27	Provider Business Mailing Address Telephone Number
+    28	Provider Business Mailing Address Fax Number
+    29	Provider First Line Business Practice Location Address
+    30	Provider Second Line Business Practice Location Address
+    31	Provider Business Practice Location Address City Name
+    32	Provider Business Practice Location Address State Name
+    33	Provider Business Practice Location Address Postal Code
+    34	Provider Business Practice Location Address Country Code (If outside U.S.)
+    35	Provider Business Practice Location Address Telephone Number
+    36	Provider Business Practice Location Address Fax Number
+    37	Provider Enumeration Date
+    38	Last Update Date
+    39	NPI Deactivation Reason Code
+    40	NPI Deactivation Date
+    41	NPI Reactivation Date
+    42	Provider Gender Code
+    43	Authorized Official Last Name
+    44	Authorized Official First Name
+    45	Authorized Official Middle Name
+    46	Authorized Official Title or Position
+    47	Authorized Official Telephone Number
+    48	Healthcare Provider Taxonomy Code_1
+    49	Provider License Number_1
+    50	Provider License Number State Code_1
+    51	Healthcare Provider Primary Taxonomy Switch_1
+    52	Healthcare Provider Taxonomy Code_2
+    53	Provider License Number_2
+    54	Provider License Number State Code_2
+    55	Healthcare Provider Primary Taxonomy Switch_2
+    56	Healthcare Provider Taxonomy Code_3
+    57	Provider License Number_3
+    58	Provider License Number State Code_3
+    59	Healthcare Provider Primary Taxonomy Switch_3
+    60	Healthcare Provider Taxonomy Code_4
+    61	Provider License Number_4
+    62	Provider License Number State Code_4
+    63	Healthcare Provider Primary Taxonomy Switch_4
+    64	Healthcare Provider Taxonomy Code_5
+    65	Provider License Number_5
+    66	Provider License Number State Code_5
+    67	Healthcare Provider Primary Taxonomy Switch_5
+    68	Healthcare Provider Taxonomy Code_6
+    69	Provider License Number_6
+    70	Provider License Number State Code_6
+    71	Healthcare Provider Primary Taxonomy Switch_6
+    72	Healthcare Provider Taxonomy Code_7
+    73	Provider License Number_7
+    74	Provider License Number State Code_7
+    75	Healthcare Provider Primary Taxonomy Switch_7
+    76	Healthcare Provider Taxonomy Code_8
+    77	Provider License Number_8
+    78	Provider License Number State Code_8
+    79	Healthcare Provider Primary Taxonomy Switch_8
+    80	Healthcare Provider Taxonomy Code_9
+    81	Provider License Number_9
+    82	Provider License Number State Code_9
+    83	Healthcare Provider Primary Taxonomy Switch_9
+    84	Healthcare Provider Taxonomy Code_10
+    85	Provider License Number_10
+    86	Provider License Number State Code_10
+    87	Healthcare Provider Primary Taxonomy Switch_10
+    88	Healthcare Provider Taxonomy Code_11
+    89	Provider License Number_11
+    90	Provider License Number State Code_11
+    91	Healthcare Provider Primary Taxonomy Switch_11
+    92	Healthcare Provider Taxonomy Code_12
+    93	Provider License Number_12
+    94	Provider License Number State Code_12
+    95	Healthcare Provider Primary Taxonomy Switch_12
+    96	Healthcare Provider Taxonomy Code_13
+    97	Provider License Number_13
+    98	Provider License Number State Code_13
+    99	Healthcare Provider Primary Taxonomy Switch_13
+   100	Healthcare Provider Taxonomy Code_14
+   101	Provider License Number_14
+   102	Provider License Number State Code_14
+   103	Healthcare Provider Primary Taxonomy Switch_14
+   104	Healthcare Provider Taxonomy Code_15
+   105	Provider License Number_15
+   106	Provider License Number State Code_15
+   107	Healthcare Provider Primary Taxonomy Switch_15
+   108	Other Provider Identifier_1
+   109	Other Provider Identifier Type Code_1
+   110	Other Provider Identifier State_1
+   111	Other Provider Identifier Issuer_1
+   112	Other Provider Identifier_2
+   113	Other Provider Identifier Type Code_2
+   114	Other Provider Identifier State_2
+   115	Other Provider Identifier Issuer_2
+   116	Other Provider Identifier_3
+   117	Other Provider Identifier Type Code_3
+   118	Other Provider Identifier State_3
+   119	Other Provider Identifier Issuer_3
+   120	Other Provider Identifier_4
+   121	Other Provider Identifier Type Code_4
+   122	Other Provider Identifier State_4
+   123	Other Provider Identifier Issuer_4
+   124	Other Provider Identifier_5
+   125	Other Provider Identifier Type Code_5
+   126	Other Provider Identifier State_5
+   127	Other Provider Identifier Issuer_5
+   128	Other Provider Identifier_6
+   129	Other Provider Identifier Type Code_6
+   130	Other Provider Identifier State_6
+   131	Other Provider Identifier Issuer_6
+   132	Other Provider Identifier_7
+   133	Other Provider Identifier Type Code_7
+   134	Other Provider Identifier State_7
+   135	Other Provider Identifier Issuer_7
+   136	Other Provider Identifier_8
+   137	Other Provider Identifier Type Code_8
+   138	Other Provider Identifier State_8
+   139	Other Provider Identifier Issuer_8
+   140	Other Provider Identifier_9
+   141	Other Provider Identifier Type Code_9
+   142	Other Provider Identifier State_9
+   143	Other Provider Identifier Issuer_9
+   144	Other Provider Identifier_10
+   145	Other Provider Identifier Type Code_10
+   146	Other Provider Identifier State_10
+   147	Other Provider Identifier Issuer_10
+   148	Other Provider Identifier_11
+   149	Other Provider Identifier Type Code_11
+   150	Other Provider Identifier State_11
+   151	Other Provider Identifier Issuer_11
+   152	Other Provider Identifier_12
+   153	Other Provider Identifier Type Code_12
+   154	Other Provider Identifier State_12
+   155	Other Provider Identifier Issuer_12
+   156	Other Provider Identifier_13
+   157	Other Provider Identifier Type Code_13
+   158	Other Provider Identifier State_13
+   159	Other Provider Identifier Issuer_13
+   160	Other Provider Identifier_14
+   161	Other Provider Identifier Type Code_14
+   162	Other Provider Identifier State_14
+   163	Other Provider Identifier Issuer_14
+   164	Other Provider Identifier_15
+   165	Other Provider Identifier Type Code_15
+   166	Other Provider Identifier State_15
+   167	Other Provider Identifier Issuer_15
+   168	Other Provider Identifier_16
+   169	Other Provider Identifier Type Code_16
+   170	Other Provider Identifier State_16
+   171	Other Provider Identifier Issuer_16
+   172	Other Provider Identifier_17
+   173	Other Provider Identifier Type Code_17
+   174	Other Provider Identifier State_17
+   175	Other Provider Identifier Issuer_17
+   176	Other Provider Identifier_18
+   177	Other Provider Identifier Type Code_18
+   178	Other Provider Identifier State_18
+   179	Other Provider Identifier Issuer_18
+   180	Other Provider Identifier_19
+   181	Other Provider Identifier Type Code_19
+   182	Other Provider Identifier State_19
+   183	Other Provider Identifier Issuer_19
+   184	Other Provider Identifier_20
+   185	Other Provider Identifier Type Code_20
+   186	Other Provider Identifier State_20
+   187	Other Provider Identifier Issuer_20
+   188	Other Provider Identifier_21
+   189	Other Provider Identifier Type Code_21
+   190	Other Provider Identifier State_21
+   191	Other Provider Identifier Issuer_21
+   192	Other Provider Identifier_22
+   193	Other Provider Identifier Type Code_22
+   194	Other Provider Identifier State_22
+   195	Other Provider Identifier Issuer_22
+   196	Other Provider Identifier_23
+   197	Other Provider Identifier Type Code_23
+   198	Other Provider Identifier State_23
+   199	Other Provider Identifier Issuer_23
+   200	Other Provider Identifier_24
+   201	Other Provider Identifier Type Code_24
+   202	Other Provider Identifier State_24
+   203	Other Provider Identifier Issuer_24
+   204	Other Provider Identifier_25
+   205	Other Provider Identifier Type Code_25
+   206	Other Provider Identifier State_25
+   207	Other Provider Identifier Issuer_25
+   208	Other Provider Identifier_26
+   209	Other Provider Identifier Type Code_26
+   210	Other Provider Identifier State_26
+   211	Other Provider Identifier Issuer_26
+   212	Other Provider Identifier_27
+   213	Other Provider Identifier Type Code_27
+   214	Other Provider Identifier State_27
+   215	Other Provider Identifier Issuer_27
+   216	Other Provider Identifier_28
+   217	Other Provider Identifier Type Code_28
+   218	Other Provider Identifier State_28
+   219	Other Provider Identifier Issuer_28
+   220	Other Provider Identifier_29
+   221	Other Provider Identifier Type Code_29
+   222	Other Provider Identifier State_29
+   223	Other Provider Identifier Issuer_29
+   224	Other Provider Identifier_30
+   225	Other Provider Identifier Type Code_30
+   226	Other Provider Identifier State_30
+   227	Other Provider Identifier Issuer_30
+   228	Other Provider Identifier_31
+   229	Other Provider Identifier Type Code_31
+   230	Other Provider Identifier State_31
+   231	Other Provider Identifier Issuer_31
+   232	Other Provider Identifier_32
+   233	Other Provider Identifier Type Code_32
+   234	Other Provider Identifier State_32
+   235	Other Provider Identifier Issuer_32
+   236	Other Provider Identifier_33
+   237	Other Provider Identifier Type Code_33
+   238	Other Provider Identifier State_33
+   239	Other Provider Identifier Issuer_33
+   240	Other Provider Identifier_34
+   241	Other Provider Identifier Type Code_34
+   242	Other Provider Identifier State_34
+   243	Other Provider Identifier Issuer_34
+   244	Other Provider Identifier_35
+   245	Other Provider Identifier Type Code_35
+   246	Other Provider Identifier State_35
+   247	Other Provider Identifier Issuer_35
+   248	Other Provider Identifier_36
+   249	Other Provider Identifier Type Code_36
+   250	Other Provider Identifier State_36
+   251	Other Provider Identifier Issuer_36
+   252	Other Provider Identifier_37
+   253	Other Provider Identifier Type Code_37
+   254	Other Provider Identifier State_37
+   255	Other Provider Identifier Issuer_37
+   256	Other Provider Identifier_38
+   257	Other Provider Identifier Type Code_38
+   258	Other Provider Identifier State_38
+   259	Other Provider Identifier Issuer_38
+   260	Other Provider Identifier_39
+   261	Other Provider Identifier Type Code_39
+   262	Other Provider Identifier State_39
+   263	Other Provider Identifier Issuer_39
+   264	Other Provider Identifier_40
+   265	Other Provider Identifier Type Code_40
+   266	Other Provider Identifier State_40
+   267	Other Provider Identifier Issuer_40
+   268	Other Provider Identifier_41
+   269	Other Provider Identifier Type Code_41
+   270	Other Provider Identifier State_41
+   271	Other Provider Identifier Issuer_41
+   272	Other Provider Identifier_42
+   273	Other Provider Identifier Type Code_42
+   274	Other Provider Identifier State_42
+   275	Other Provider Identifier Issuer_42
+   276	Other Provider Identifier_43
+   277	Other Provider Identifier Type Code_43
+   278	Other Provider Identifier State_43
+   279	Other Provider Identifier Issuer_43
+   280	Other Provider Identifier_44
+   281	Other Provider Identifier Type Code_44
+   282	Other Provider Identifier State_44
+   283	Other Provider Identifier Issuer_44
+   284	Other Provider Identifier_45
+   285	Other Provider Identifier Type Code_45
+   286	Other Provider Identifier State_45
+   287	Other Provider Identifier Issuer_45
+   288	Other Provider Identifier_46
+   289	Other Provider Identifier Type Code_46
+   290	Other Provider Identifier State_46
+   291	Other Provider Identifier Issuer_46
+   292	Other Provider Identifier_47
+   293	Other Provider Identifier Type Code_47
+   294	Other Provider Identifier State_47
+   295	Other Provider Identifier Issuer_47
+   296	Other Provider Identifier_48
+   297	Other Provider Identifier Type Code_48
+   298	Other Provider Identifier State_48
+   299	Other Provider Identifier Issuer_48
+   300	Other Provider Identifier_49
+   301	Other Provider Identifier Type Code_49
+   302	Other Provider Identifier State_49
+   303	Other Provider Identifier Issuer_49
+   304	Other Provider Identifier_50
+   305	Other Provider Identifier Type Code_50
+   306	Other Provider Identifier State_50
+   307	Other Provider Identifier Issuer_50
+   308	Is Sole Proprietor
+   309	Is Organization Subpart
+   310	Parent Organization LBN
+   311	Parent Organization TIN
+   312	Authorized Official Name Prefix Text
+   313	Authorized Official Name Suffix Text
+   314	Authorized Official Credential Text
+   315	Healthcare Provider Taxonomy Group_1
+   316	Healthcare Provider Taxonomy Group_2
+   317	Healthcare Provider Taxonomy Group_3
+   318	Healthcare Provider Taxonomy Group_4
+   319	Healthcare Provider Taxonomy Group_5
+   320	Healthcare Provider Taxonomy Group_6
+   321	Healthcare Provider Taxonomy Group_7
+   322	Healthcare Provider Taxonomy Group_8
+   323	Healthcare Provider Taxonomy Group_9
+   324	Healthcare Provider Taxonomy Group_10
+   325	Healthcare Provider Taxonomy Group_11
+   326	Healthcare Provider Taxonomy Group_12
+   327	Healthcare Provider Taxonomy Group_13
+   328	Healthcare Provider Taxonomy Group_14
+   329	Healthcare Provider Taxonomy Group_15
+   330	Certification Date
